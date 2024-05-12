@@ -1,24 +1,3 @@
-# tela-login
+# Tela de Login
 
-## Project setup
-```
-npm install
-```
-
-### Compiles and hot-reloads for development
-```
-npm run serve
-```
-
-### Compiles and minifies for production
-```
-npm run build
-```
-
-### Lints and fixes files
-```
-npm run lint
-```
-
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
+![Captura de tela de 2024-05-12 20-18-56](https://github.com/SrBorges/tela_de_Login/assets/96485637/a535f015-b6c2-4d59-9b8c-36c4f370b29b)

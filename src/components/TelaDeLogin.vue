@@ -223,7 +223,7 @@ ul{
     font-size: 3rem;
     font-family: Arial, Helvetica, sans-serif;
     font-weight: 600;
-    transform: translateY(90%);
+    transform: translateY(10vw);
     text-transform: uppercase;
     color: #E35842;
 

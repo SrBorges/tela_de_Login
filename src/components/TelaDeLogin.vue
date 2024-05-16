@@ -75,10 +75,12 @@ export default{
             }else if(senha != confirmaSenha){
                 
                 this.logado = 'Login ou Senhas incorretos.'
+                this.ativo = false
 
             }else{
 
                 this.logado = 'Dados não informados'
+                this.ativo = false
 
             }
            
